@@ -10,7 +10,7 @@ A simple and intuitive web application to keep track of scores during a Ping Pon
 
 ## Technologies Used :
 - *HTML: For structuring the application.*
-- *Bulma CSS: For a clean and user-friendly interface.*
+- *Bulma CSS Framework: For a clean and user-friendly interface.*
 - *JavaScript: To handle interactivity and game logic.*
 
 ## Future Enhancements :
